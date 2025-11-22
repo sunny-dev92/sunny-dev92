@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm Chel — a data engineer in training and the creative mind behind **Nice and Sunny**.  
+I'm May — a data engineer in training and the creative mind behind **Nice and Sunny**.  
 I love building things that make life a little brighter ☀️
 
 - 🌱 Currently learning **Python, Spark SQL, AWS, and Databricks**
